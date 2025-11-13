@@ -1,14 +1,15 @@
-# Shiv Nadar School Faridabad MUN 2023 Website
-The Shiv Nadar School Faridabad Model United Nations (MUN) website was built using HTML, CSS, SCSS, and JavaScript. The website served as the primary platform for approximately 90 delegates to participate in the conference. This document serves as a detailed description of the website and its features.
+# Shiv Nadar School Faridabad MUN 2024 Website
+The Shiv Nadar School Faridabad Model United Nations (MUN) website was built using HTML, CSS, SCSS, and JavaScript. The website served as the primary platform for approximately 200 delegates to participate in the conference. This document serves as a detailed description of the website and its features.
 
 ## Website Overview
 The website is divided into several sections, including:
 
 - Home
-- Registration
-- Committees and Agendas
-- Important Documents
+- Resources
 - Gallery
+- Awards
+- Secretariat
+- Committees
 ## Home
 - The home page for the Shiv Nadar School Model United Nations (SNSMUN) website is designed to provide visitors with an overview of the program, conference details, and registration information. The page begins with an image of the SNSMUN logo and a header that announces the upcoming conference. The following paragraph provides a brief description of the SNSMUN program, highlighting its focus on promoting a deep understanding and appreciation of our diverse, multicultural, and interdependent world.
 - Below the introductory paragraph, there is a section with three articles presented in tile format. Each tile is accompanied by an image and a brief description of its content. The first tile invites visitors to register for the conference individually or as a school delegation. The second tile provides directions to locate the Shiv Nadar School, Faridabad campus. The third tile displays the conference schedule and venue information.
