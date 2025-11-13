@@ -2716,7 +2716,7 @@ input, select, textarea {
 			}
 
 			.tiles article.style5 > .image:before {
-				background-color: #ae85ca;
+				background-color: #6e3f3f;
 			}
 
 			.tiles article.style6 > .image:before {
@@ -2962,6 +2962,25 @@ input, select, textarea {
 
 						#header nav ul li a[href="#menu"]:hover:after {
 							opacity: 0;
+						}
+						#header nav ul li ul{ 
+							position: absolute;
+  							top: 100%;
+  							display: none;
+						}
+						#header nav ul li ul li{
+  							display: block;
+							
+							
+							
+						}
+						#header nav ul li:hover ul{ 
+							display: block;
+							
+							
+						}
+						#header nav ul ul li a:hover {
+  							background-color: #555;
 						}
 
 		@media screen and (max-width: 736px) {
