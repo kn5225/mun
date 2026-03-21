@@ -1,3 +1,6 @@
+Note: This repository was cloned from my <a href="https://github.com/snsfmun24" target="_blank">snsfmun24</a> account, which was the profile used for hosting during the conference to ensure professionalism in the URL. No differences in content exist
+
+
 # Shiv Nadar School Faridabad MUN 2024 Website
 The Shiv Nadar School Faridabad Model United Nations (MUN) website was built using HTML, CSS, SCSS, and JavaScript. The website served as the primary platform for approximately 200 delegates to participate in the conference. This document serves as a detailed description of the website and its features.
 
