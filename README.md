@@ -1,4 +1,4 @@
-Note: This repository was cloned from my <a href="https://github.com/snsfmun24" target="_blank">snsfmun24</a> account, which was the profile used for hosting during the conference to ensure professionalism in the URL. No differences in content exist.
+Note: This repository was cloned from my <a href="https://github.com/snsfmun24" target="_blank">snsfmun24</a> account, which was the profile used for hosting during the conference to ensure professionalism in the URL. No differences in website content exist.
 
 
 # Shiv Nadar School Faridabad MUN 2024 Website
